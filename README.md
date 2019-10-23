@@ -10,7 +10,9 @@
 
 ### 最新
 
-* [test2222](http://www.kidcaoblog.com/articles/2019/10/21/1571629628593.html)
+* [rttt11111](http://www.kidcaoblog.com/articles/2019/10/22/1571730936158.html)
+* [rttt](http://www.kidcaoblog.com/articles/2019/10/22/1571730721533.html)
+* [test22223333333](http://www.kidcaoblog.com/articles/2019/10/21/1571629628593.html)
 * [test发布文章](http://www.kidcaoblog.com/articles/2019/10/21/1571629563189.html)
 * [我在 GitHub 上的开源项目](http://www.kidcaoblog.com/my-github-repos)
 * [世界，你好！](http://www.kidcaoblog.com/hello-solo)
